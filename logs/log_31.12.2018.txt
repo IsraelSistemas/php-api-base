@@ -1,0 +1,6 @@
+Creando base de datos... 
+ 
+Comenzando a generar base de datos... 
+ 
+La estructura de la base de datos se ha generado correctamente 
+ 
